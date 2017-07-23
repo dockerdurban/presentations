@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  dotnet2project:
+    image: dotnet2project
+    build:
+      context: .\dotnet2project
+      dockerfile: Dockerfile

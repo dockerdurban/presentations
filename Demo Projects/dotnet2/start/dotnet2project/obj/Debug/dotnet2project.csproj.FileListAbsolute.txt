@@ -1,0 +1,6 @@
+c:\users\dockerdurban\documents\visual studio 2017\Projects\dotnet2project\dotnet2project\bin\dotnet2project.dll.config
+c:\users\dockerdurban\documents\visual studio 2017\Projects\dotnet2project\dotnet2project\bin\dotnet2project.dll
+c:\users\dockerdurban\documents\visual studio 2017\Projects\dotnet2project\dotnet2project\bin\dotnet2project.pdb
+c:\users\dockerdurban\documents\visual studio 2017\Projects\dotnet2project\dotnet2project\obj\Debug\dotnet2project.csprojResolveAssemblyReference.cache
+c:\users\dockerdurban\documents\visual studio 2017\Projects\dotnet2project\dotnet2project\obj\Debug\dotnet2project.dll
+c:\users\dockerdurban\documents\visual studio 2017\Projects\dotnet2project\dotnet2project\obj\Debug\dotnet2project.pdb
