@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{B4DBFEA2-C7B3-427D-859B-49716CF3AB27}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D8005BE4-532E-4EA0-B269-E820FF482FB4} = {D8005BE4-532E-4EA0-B269-E820FF482FB4}
+	EndProjectSection
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{3ED2E9F1-4104-4335-ADE9-12C7B9AFAB1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceConsoleApp", "WcfServiceConsoleApp\WcfServiceConsoleApp.csproj", "{D8005BE4-532E-4EA0-B269-E820FF482FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4DBFEA2-C7B3-427D-859B-49716CF3AB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DBFEA2-C7B3-427D-859B-49716CF3AB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DBFEA2-C7B3-427D-859B-49716CF3AB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DBFEA2-C7B3-427D-859B-49716CF3AB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED2E9F1-4104-4335-ADE9-12C7B9AFAB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED2E9F1-4104-4335-ADE9-12C7B9AFAB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED2E9F1-4104-4335-ADE9-12C7B9AFAB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED2E9F1-4104-4335-ADE9-12C7B9AFAB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8005BE4-532E-4EA0-B269-E820FF482FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8005BE4-532E-4EA0-B269-E820FF482FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8005BE4-532E-4EA0-B269-E820FF482FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8005BE4-532E-4EA0-B269-E820FF482FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2D0F033-90DE-42CF-B8EA-FB1C1AA3C5A8}
+	EndGlobalSection
+EndGlobal
